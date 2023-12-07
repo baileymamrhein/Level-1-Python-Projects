@@ -1,7 +1,5 @@
 #Temperature conversions
 
-#def defines a function. Here, the functions purpose is to convert celsius to farenheit
-
 getInput = input("Do you want to convert Farenheit to Celsius?")
 
 if getInput=="yes":
