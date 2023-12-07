@@ -2,8 +2,7 @@
 
 # Practice creating/calling functions and using modulo operator
 def calculator():
-    getInput = input("Pick any number: ")
-    global number 
+    getInput = input("Pick any number: ") 
     number = (round(int(getInput)))
     remainder = number%2
 
